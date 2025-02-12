@@ -47,4 +47,5 @@ Endpoints can be tested with postman collection. You can find information about 
 
 Example:
 
-[Get Model REST API Example](http://localhost:8080/api/model/get?id=2)
+
+[Get Model REST API Example](http://18.184.216.185:8080/api/model/get?id=2)
